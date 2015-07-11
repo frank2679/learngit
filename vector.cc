@@ -9,3 +9,4 @@ main(){
 	cout << num[0] << endl;
 	return 0;
 }
+hello
